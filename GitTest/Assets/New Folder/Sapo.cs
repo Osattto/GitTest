@@ -4,5 +4,5 @@ using UnityEngine;
 
 public class Sapo : MonoBehaviour
 {
-
+	private int value = 0;
 }
